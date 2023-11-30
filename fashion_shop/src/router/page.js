@@ -28,6 +28,13 @@ const home = [{
 
         },
         {
+            path: 'branch',
+            name: 'BranchVue',
+            meta: { breadcrumb: 'Chi nhánh' },
+            component: () =>
+                import ('../views/branch/Branch.vue'),
+        },
+        {
             path: 'test',
             name: 'Test',
             meta: { breadcrumb: 'Test' },

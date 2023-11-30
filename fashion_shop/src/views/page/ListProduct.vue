@@ -7,7 +7,7 @@ home
   
   <script>
   export default {
-    name: 'vueTem',
+    name: 'ListProduct',
     components: {
     },
     setup() {
