@@ -8,3 +8,9 @@ b3: vue add router
 bootstrap 5
 https://fontawesome.com/
 https://antoniandre.github.io/vueper-slides/
+
+đropbox
+App key
+s06ixowby26f7vz
+App secret
+1h7apg34oj7sk1d
